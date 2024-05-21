@@ -24,5 +24,5 @@ SESSION_ID: process.env.SESSION_ID || "PRABATH-MD~JnknhBjZ#FM1hsZpibBN2gygUySIq7
 BOT_NUMBER: process.env.BOT_NUMBER || "94729493354",
 PASSWORD: process.env.PASSWORD || "Enter you like password",
 GITHUB_USERNAME: process.env.GITHUB_USERNAME || "gagananirun",
-GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || ""
+GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || "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"
 };
