@@ -7,7 +7,7 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "947294943354",
+      "description": "94713330764",
       "required": true
     },  
 
@@ -17,7 +17,7 @@
     },
 
     "SESSION_ID": {
-      "description": "PRABATH-MD~JnknhBjZ#FM1hsZpibBN2gygUySIq77oZVOA0tDspGDfRBgselOg",
+      "description": "PRABATH-MD~V7FmDbzA#xPUhe-9hM5MfGfqPTWxQITd6p_BfXulldfiMBLT9aAk",
       "required": false
     },
     
