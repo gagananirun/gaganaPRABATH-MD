@@ -7,7 +7,7 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "94704901199",
+      "description": "94729493354",
       "required": true
     },  
 
@@ -17,7 +17,7 @@
     },
 
     "SESSION_ID": {
-      "description": "PRABATH-MD~RuUAWDSC#7MmCsn-9sDrN_6OBNhIZQR9f4hBPlTMpla9i7jIU8Jc",
+      "description": "PRABATH-MD~478WzYQB#S1CYi5NMa3OUqNh7vNq7exEyBSUfa1UX4TjVGGKAUYs",
       "required": false
     },
     
@@ -26,7 +26,7 @@
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
-      "description": "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",
+      "description": "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",
       "required": true
     }   
 },
