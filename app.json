@@ -17,7 +17,7 @@
     },
 
     "SESSION_ID": {
-      "description": "PRABATH-MD_fEjMzqYa",
+      "description": "PRABATH-MD~DDZzCQ7K#DBg5XNRHVfqqO9jBiI8cLXiFwN2Jd6SOy-4FnicJCuw",
       "required": false
     },
     
@@ -26,7 +26,7 @@
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
-      "description": "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",
+      "description": "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",
       "required": true
     }   
 },
